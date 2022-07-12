@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavViewModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button1">詳細画面へ</string>
+    <string name="button2">-</string>
+    <string name="button3">+</string>
+    <string name="button4">戻す</string>
+</resources>
